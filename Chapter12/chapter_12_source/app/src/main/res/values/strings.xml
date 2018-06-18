@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="add_new_task_dialog_title">Add New Task</string>
+    <string name="save">Save</string>
+    <string name="update_task_dialog_title">Edit Task</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="reminder">Reminder</string>
+</resources>
