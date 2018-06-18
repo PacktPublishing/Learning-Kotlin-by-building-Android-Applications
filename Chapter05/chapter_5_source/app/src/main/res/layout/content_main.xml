@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.packtpub.eunice.tictactoe.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <TableLayout
+        android:id="@+id/table_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:gravity="center">
+
+        <TableRow
+            android:id="@+id/r0"
+            style="@style/TableRow">
+            <TextView
+                style="@style/Cell.Left"
+                android:layout_marginTop="0dp"
+                />
+            <TextView
+                style="@style/Cell.Middle"
+                android:layout_marginTop="0dp"/>
+            <TextView
+                style="@style/Cell.Right"
+                android:layout_marginTop="0dp"/>
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/r1"
+            style="@style/TableRow">
+            <TextView
+                style="@style/Cell.Left" />
+            <TextView
+                style="@style/Cell.Middle"/>
+            <TextView
+                style="@style/Cell.Right"/>
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/r2"
+            style="@style/TableRow">
+
+            <TextView
+                style="@style/Cell.Left"
+                android:layout_marginBottom="0dp"
+                />
+            <TextView
+                style="@style/Cell.Middle"
+                android:layout_marginBottom="0dp"
+                />
+            <TextView
+                style="@style/Cell.Right"
+                android:layout_marginBottom="0dp"
+                />
+        </TableRow>
+
+        </TableLayout>
+
+</android.support.constraint.ConstraintLayout>
