@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="board_padding">16dp</dimen>
+    <dimen name="cell_margin">2dp</dimen>
+    <dimen name="large_text">64sp</dimen>
+</resources>
