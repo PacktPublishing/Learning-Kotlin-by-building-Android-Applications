@@ -55,10 +55,9 @@ With the following software and hardware list you can run all code files present
 * Building Applications with Spring 5 and Kotlin [[Packt]](https://www.packtpub.com/application-development/building-applications-spring-5-and-kotlin?utm_source=github&utm_medium=repository&utm_campaign=9781788394802) [[Amazon]](https://www.amazon.com/dp/1788394801)
 
 ## Get to Know the Authors
-**Andrew Caya** started programming computers in GW-BASIC and QBASIC in the early 90s. Before becoming a PHP developer almost 10 years ago, he did some software development in C, C++, and Perl. He is now a Zend Certified PHP Engineer and a Zend Certified Architect. He is also the creator of Linux for PHP, the lead developer of a popular Joomla extension and a contributor to many open source projects.
+**Eunice Adutwumwaa Obugyei** is a software engineer from Accra, Ghana, with over 7 years of experience in Android development. Eunice is currently a senior software engineer at DreamOval Ltd, where she focuses on backend development and native mobile development. She is young, energetic, and always looking for an opportunity to learn and improve the skills in her arsenal. She is passionate about figuring out solutions to problems and finding the simplest way out, and her love for TV series and movies is her escape from the rigors of work life. Feel free to reach out on Twitter or LinkedIn.
 
-He is currently CEO, CTO and Founder of Foreach Code Factory, an instructor at Concordia University, an author and a technical reviewer for Packt Publishing, and a loving husband and father.
-
+**Natarajan Raman** has close to 15 years of experience in software design and development. He is a Google-certified Nano degree holder in Android development and was invited as a guest by Google for the I/O 2017. His Android App Idea for special children got selected as one of the top 6 ideas out of 80-odd ideas, and was also featured by Google in the Code it possible program. He works for Patterns and is also the managing trustee of Dream India.
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
